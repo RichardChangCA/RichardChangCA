@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋
-I am Lingfeng Zhang
+# Lingfeng Zhang
 
 Machine Learning Researcher | Embodied AI | Vision-Language Models | Agentic Systems 
 
