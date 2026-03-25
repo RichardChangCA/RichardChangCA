@@ -25,6 +25,26 @@ Machine Learning Researcher | Embodied AI | Vision-Language Models | Agentic Sys
 - Agentic Systems with Reflection & Critic
 - World Models for Robotics
 
+## ⚙️ Technical Stack
+
+- Models: Qwen-VL, InternVL, LLaVA
+- Frameworks: PyTorch, Transformers
+- Systems: Slurm, Docker, Multi-GPU Training
+
+## 📊 Google Scholar Highlights
+
+- 📈 **Citations**: 480+ ![Citations](https://img.shields.io/badge/Citations-480+-blue)
+- 🧠 Research Areas: Embodied AI · World Models · Agentic Systems
+- 🎯 Focus: Long-horizon reasoning, memory-driven embodied intelligence and world models
+
+My research explores how to enable embodied agents to perform **long-horizon reasoning** through:
+- Structured memory (Mem2Ego)
+- Task-level planning (ET-Plan-Bench)
+- Reflection-driven agentic systems
+- World Models
+
+🔗 [Google Scholar Profile](https://scholar.google.ca/citations?user=u_Jy24oAAAAJ&hl=en)
+
 ## 🚀 Selected Projects
 
 ### ET-Plan-Bench (IROS 2025 Oral)
@@ -51,26 +71,6 @@ Key contributions:
 This work advances embodied AI from short-horizon imitation toward **memory-driven decision making**, a critical step toward scalable agentic systems.
 
 🔗 [Arxiv](https://arxiv.org/abs/2502.14254)
-
-## ⚙️ Technical Stack
-
-- Models: Qwen-VL, InternVL, LLaVA
-- Frameworks: PyTorch, Transformers
-- Systems: Slurm, Docker, Multi-GPU Training
-
-## 📊 Google Scholar Highlights
-
-- 📈 **Citations**: 480+
-- 🧠 Research Areas: Embodied AI · World Models · Agentic Systems
-- 🎯 Focus: Long-horizon reasoning, memory-driven embodied intelligence and world models
-
-My research explores how to enable embodied agents to perform **long-horizon reasoning** through:
-- Structured memory (Mem2Ego)
-- Task-level planning (ET-Plan-Bench)
-- Reflection-driven agentic systems
-- World Models
-
-🔗 [Google Scholar Profile](https://scholar.google.ca/citations?user=u_Jy24oAAAAJ&hl=en)
 
 ## 📫 Contact
 
