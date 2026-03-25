@@ -33,7 +33,7 @@ Machine Learning Researcher | Embodied AI | Vision-Language Models | Agentic Sys
 
 ## 📊 Google Scholar Highlights
 
-- 📈 **Citations**: 480+ ![Citations](https://img.shields.io/badge/Citations-480+-blue)
+- 🔗 [Google Scholar Profile](https://scholar.google.ca/citations?user=u_Jy24oAAAAJ&hl=en) ![Citations](https://img.shields.io/badge/Citations-480+-blue)
 - 🧠 Research Areas: Embodied AI · World Models · Agentic Systems
 - 🎯 Focus: Long-horizon reasoning, memory-driven embodied intelligence and world models
 
@@ -42,8 +42,6 @@ My research explores how to enable embodied agents to perform **long-horizon rea
 - Task-level planning (ET-Plan-Bench)
 - Reflection-driven agentic systems
 - World Models
-
-🔗 [Google Scholar Profile](https://scholar.google.ca/citations?user=u_Jy24oAAAAJ&hl=en)
 
 ## 🚀 Selected Projects
 
