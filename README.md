@@ -74,4 +74,6 @@ This work advances embodied AI from short-horizon imitation toward **memory-driv
 
 - Email: zlf465074419@gmail.com
 
-## 🔗 [Personal Blog](https://medium.com/@zlf465074419)
+## 🔗 Personal Blogs
+
+- Medium Blogs: https://medium.com/@zlf465074419
