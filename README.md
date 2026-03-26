@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 # Lingfeng Zhang
 
+[![](https://img.shields.io/badge/GoogleScholar-Lingfeng_Zhang-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.ca/citations?user=u_Jy24oAAAAJ&hl=en)
+
 Machine Learning Researcher | Embodied AI | Vision-Language Models | Agentic Systems 
 
 ## 🔬 Research Focus
