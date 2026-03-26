@@ -68,7 +68,7 @@ Key contributions:
 
 This work advances embodied AI from short-horizon imitation toward **memory-driven decision making**, a critical step toward scalable agentic systems.
 
-🔗 [Arxiv](https://arxiv.org/abs/2502.14254)
+🔗 [Arxiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)(https://arxiv.org/abs/2502.14254)
 
 ## 📫 Contact
 
