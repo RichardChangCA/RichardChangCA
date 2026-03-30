@@ -47,7 +47,7 @@ My research explores how to enable embodied agents to perform **long-horizon rea
 
 ## 🚀 Selected Projects
 
-### ET-Plan-Bench (IROS 2025 Oral)
+### ET-Plan-Bench: Embodied Task-level Planning Benchmark Towards Spatial-Temporal Cognition with Foundation Models (IROS 2025 Oral)
 A benchmark for long-horizon embodied planning with spatiotemporal reasoning.
 
 - Integrated into Embodied Arena
